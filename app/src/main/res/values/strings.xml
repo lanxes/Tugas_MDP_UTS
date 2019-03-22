@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MDP Week 5</string>
+    <string name="btnPilih">Pilih</string>
+    <string name="pertanyaan">Masukan Ukuran Masaka</string>
+    <string-array name="pilihanPorsi">
+        <item>Small</item>
+        <item>Medium</item>
+        <item>Large</item>
+    </string-array>
+</resources>
